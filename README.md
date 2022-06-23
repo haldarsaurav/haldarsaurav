@@ -21,7 +21,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://github.com/haldarsaurav/haldarsaurav/blob/main/img/1280px-Python-logo-notext.svg.png?raw=true" style="padding-right:10px;" />
 
-<img align="left" alt="c++" width="26px" src="img/C++-Logo.wine.png" style="padding-right:10px;" />
+<img align="left" alt="c++" width="26px" src="img/c++.png" style="padding-right:10px;" />
 
 <img align="left" alt="Matlab" width="26px" src="https://github.com/haldarsaurav/haldarsaurav/blob/main/img/Matlab_Logo.png?raw=true" style="padding-right:10px;" />
 
