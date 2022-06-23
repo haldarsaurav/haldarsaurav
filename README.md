@@ -48,8 +48,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
@@ -59,16 +57,11 @@
 5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 <!--END_SECTION:activity-->
 
-</details>
+<br />
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
- <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haldarsaurav&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+  <img align="left" alt="Saurav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haldarsaurav&theme=
+  dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <!---
 haldarsaurav/haldarsaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
