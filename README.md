@@ -9,6 +9,14 @@
 - 👀 I’m interested in Robotics, AI, Machine Learning and much more!
 - 📫 How to reach me: haldarsaurav13@gmail.com or +49 157 503 796 15
 
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saurav--haldar/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saurav--haldar/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_saurav_haldar_/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_saurav_haldar_/)
+
 <!---
 haldarsaurav/haldarsaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
