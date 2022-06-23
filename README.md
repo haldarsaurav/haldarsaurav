@@ -68,7 +68,7 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravhaldar&layout=compact)](https://github.com/haldarsaurav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldarsaurav)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 haldarsaurav/haldarsaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
