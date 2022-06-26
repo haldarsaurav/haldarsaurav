@@ -1,6 +1,6 @@
 # Hi there, I'm Saurav 👋 
 
-- 🔍 Actively searching for relevent Internship or werkstudent. 
+- 🔍 Actively searching for relevent Internship or werkstudent jobs. 
 - 🌱 Currently learning Python, Machine Learning, LabView, MATLAB and Git.
 - 🎓 Pursuing my Masters in Electronmics Engineering in Measurement and Instrumentation from Hochschule Bremen, Germany
 - 📚 Currently doing CS50 Python from Harvard Univeristy, 100 Days of Python Coding from Dr.Angela Yu and Machine Learning from Stanford University.
