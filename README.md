@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saurav--haldar/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saurav--haldar/)
+[![website](./img/linkedin-light.svg)]([https://www.linkedin.com/in/saurav--haldar/](https://www.linkedin.com/in/sauravhaldar/))
+[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/saurav--haldar/](https://www.linkedin.com/in/sauravhaldar/))
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_saurav_haldar_/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_saurav_haldar_/)
