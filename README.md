@@ -1,8 +1,8 @@
 # Hi there, I'm Saurav 👋 
 
-- 🔍 Actively searching for relevent Internship or werkstudent jobs. 
+- 🔍 Actively searching for relevent Internship or werkstudent jobs in Bremen. 
 - 🌱 Currently learning Python, Machine Learning, LabView, MATLAB and Git.
-- 🎓 Pursuing my Masters in Electronmics Engineering in Measurement and Instrumentation from Hochschule Bremen, Germany
+- 🎓 Will be pursuing my Masters in Electronmics Engineering in Measurement and Instrumentation from Hochschule Bremen, Germany
 - 📚 Currently doing CS50 Python from Harvard Univeristy, 100 Days of Python Coding from Dr.Angela Yu and Machine Learning from Stanford University.
 - 🥅 2021 Goals: Learn Python and Machine Learning and make relevent projects and contribute to some open source projects. 
 - ⚡ Fun fact: I love to draw, make hobby projects and do some begineer photography. 
