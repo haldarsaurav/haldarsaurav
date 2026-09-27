@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Learn Python and Machine Learning and make relevent projects and contribute to some open source projects. 
 - ⚡ Fun fact: I love to draw, make hobby projects and do some begineer photography. 
 - 👀 I’m interested in Robotics, Renewable Energy, AI, Machine Learning and much more!
-- 📫 How to reach me: haldarsaurav13@gmail.com or @"_saurav_haldar_" (insta)
+- 📫 How to reach me: haldarsaurav13@gmail.com or on insta
 
 ### Connect with me:
 
