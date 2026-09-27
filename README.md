@@ -11,21 +11,23 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)]([https://www.linkedin.com/in/saurav--haldar/](https://www.linkedin.com/in/sauravhaldar/))
-[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/saurav--haldar/](https://www.linkedin.com/in/sauravhaldar/))
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sauravhaldar/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sauravhaldar/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/_saurav_haldar_/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_saurav_haldar_/)
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/haldarsaurav/haldarsaurav/blob/main/img/1280px-Python-logo-notext.svg.png?raw=true" style="padding-right:10px;" />
+**Embedded projects:** ESP32-C3 and ESP32-S3, Arduino, C/C++, FreeCAD and 3D-printed enclosures.
+
+<img align="left" alt="Python" width="26px" src="img/1280px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 
 <img align="left" alt="c++" width="26px" src="img/c++.png" style="padding-right:10px;" />
 
-<img align="left" alt="Matlab" width="26px" src="https://github.com/haldarsaurav/haldarsaurav/blob/main/img/Matlab_Logo.png?raw=true" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="26px" src="img/Matlab_Logo.png" style="padding-right:10px;" />
 
-<img align="left" alt="Labview" width="26px" src="https://raw.githubusercontent.com/haldarsaurav/haldarsaurav/edd9a9933564a8cd7499d5b9b7788d83df7990b2/img/national-instruments-labview.svg" style="padding-right:10px;" />
+<img align="left" alt="Labview" width="26px" src="img/national-instruments-labview.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -51,14 +53,6 @@
 
 <br />
 <br />
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haldarsaurav&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=prs,issues,contribs" />
-
-</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haldarsaurav&exclude_repo=haldarsaurav)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 haldarsaurav/haldarsaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
